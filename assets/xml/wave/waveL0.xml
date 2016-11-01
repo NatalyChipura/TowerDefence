@@ -1,0 +1,93 @@
+<data>
+  <Wave num="1" >
+	<cntCreep>5</cntCreep>
+	<distance>2</distance>
+	<prise>6</prise>
+	<Creep>
+		<health>10</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="2" >
+	<cntCreep>6</cntCreep>
+	<distance>2</distance>
+	<prise>4</prise>
+	<Creep>
+		<health>25</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="3" >
+	<cntCreep>7</cntCreep>
+	<distance>2</distance>
+	<prise>4</prise>
+	<Creep>
+		<health>40</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="4" >
+	<cntCreep>8</cntCreep>
+	<distance>2</distance>
+	<prise>4</prise>
+	<Creep>
+		<health>55</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="5" >
+	<cntCreep>9</cntCreep>
+	<distance>2</distance>
+	<prise>3</prise>
+	<Creep>
+		<health>70</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="6" >
+	<cntCreep>10</cntCreep>
+	<distance>2</distance>
+	<prise>3</prise>
+	<Creep>
+		<health>85</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="7" >
+	<cntCreep>11</cntCreep>
+	<distance>2</distance>
+	<prise>3</prise>
+	<Creep>
+		<health>100</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="8" >
+	<cntCreep>12</cntCreep>
+	<distance>2</distance>
+	<prise>2</prise>
+	<Creep>
+		<health>115</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="9" >
+	<cntCreep>13</cntCreep>
+	<distance>2</distance>
+	<prise>2</prise>
+	<Creep>
+		<health>130</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+  <Wave num="10" >
+	<cntCreep>14</cntCreep>
+	<distance>2</distance>
+	<prise>0</prise>
+	<Creep>
+		<health>145</health>
+		<pace>1</pace>
+	</Creep>
+  </Wave>
+
+</data>
